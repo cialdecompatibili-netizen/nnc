@@ -3,42 +3,36 @@
     "id": "hero",
     "nome": "Hero",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Il tuo settore, in due parole</p><h1 class=\"gc-h1\">Dì in una riga cosa fai, <em>senza giri di parole.</em></h1><p class=\"gc-lead\">Racconta in due righe chi sei, che problema risolvi e per chi. Scrivila come la diresti a voce a un cliente: semplice e diretta.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/contatti/\">Scrivici</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/servizi/\">Vedi cosa facciamo</a></div></div><div class=\"ent-cycle\"><div><b>Ci racconti cosa ti serve</b><span>Senza impegno, anche solo per capire da dove partire</span></div><div><b>Ti proponiamo una soluzione</b><span>Chiara, con tempi e costi detti prima</span></div><div><b>Ci mettiamo al lavoro</b><span>Ti aggiorniamo a ogni passaggio</span></div><div><b>Consegna e assistenza</b><span>Restiamo a disposizione anche dopo</span></div></div></div></section></div>"
-  },
-  {
-    "id": "contesto",
-    "nome": "Il contesto",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"contesto\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Qualche numero</p><h2 class=\"gc-h2\">Perché è un tema che conta</h2><p class=\"gc-lead\">Una frase che spiega il contesto, con un dato vero e la sua fonte. Se non ne hai, togli questa fascia.</p><div class=\"ent-stats\"><div><b>00</b><span>Dato da inserire</span></div><div><b>00</b><span>Dato da inserire</span></div><div><b>00</b><span>Dato da inserire</span></div></div><p class=\"ent-src\">Fonte: scrivi da dove arriva il dato.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Noleggio con conducente a Roma e provincia</p><h1 class=\"gc-h1\">Arrivi, parti, ti godi il viaggio. <em>Alla guida ci pensiamo noi.</em></h1><p class=\"gc-lead\">Transfer da e per gli aeroporti, tour, eventi, matrimoni e trasferte di lavoro con autista professionista. Puntualit&#224;, auto pulita e prezzo concordato prima di partire.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/contatti/\">Richiedi un preventivo</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/servizi/\">Vedi i servizi</a></div></div><div class=\"ent-cycle\"><div><b>Ci scrivi tratta, data e orario</b><span>Anche solo per capire quanto costa</span></div><div><b>Ricevi un preventivo chiaro</b><span>Importo detto prima, senza sorprese</span></div><div><b>L&#39;autista ti aspetta</b><span>All&#39;orario e nel punto concordato</span></div><div><b>Arrivi a destinazione</b><span>Comodo, in sicurezza e in orario</span></div></div></div></section></div>"
   },
   {
     "id": "servizi",
     "nome": "Servizi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"servizi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Cosa facciamo</p><h2 class=\"gc-h2\">Come possiamo darti una mano</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><span class=\"n\">01</span><b>Il servizio principale</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">02</span><b>Un secondo servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">03</span><b>Un terzo servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">04</span><b>Un quarto servizio</b><ul><li>Cosa comprende</li><li>A chi è utile</li><li>Cosa ottieni</li></ul></div></div><p style=\"margin-top:1.6rem\"><a class=\"gc-link\" href=\"__BASEURL__/servizi/\">Guarda tutti i servizi</a></p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"servizi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Cosa facciamo</p><h2 class=\"gc-h2\">Dove ti portiamo</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><span class=\"n\">01</span><b>Transfer aeroporti</b><ul><li>Fiumicino e Ciampino</li><li>Accoglienza in arrivo</li><li>Monitoraggio del volo</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">02</span><b>Tour ed escursioni</b><ul><li>Roma e dintorni</li><li>Itinerari su misura</li><li>Soste a tua scelta</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">03</span><b>Matrimoni ed eventi</b><ul><li>Auto per gli sposi</li><li>Navette per gli ospiti</li><li>Serate e cene</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">04</span><b>Business</b><ul><li>Trasferte e fiere</li><li>Accompagnamento clienti</li><li>Servizio su richiesta</li></ul></div></div><p style=\"margin-top:1.6rem\"><a class=\"gc-link\" href=\"__BASEURL__/servizi/\">Tutti i servizi</a></p></div></section></div>"
   },
   {
     "id": "perchi",
     "nome": "Per chi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"perchi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">A chi ci rivolgiamo</p><h2 class=\"gc-h2\">Chi si trova bene con noi</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><b>Privati</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Professionisti</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Piccole aziende</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div><div class=\"gc-pl ent-pl\"><b>Enti e associazioni</b><ul><li>Una situazione in cui ci cercano spesso</li><li>Una richiesta tipica</li></ul></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"perchi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">A chi ci rivolgiamo</p><h2 class=\"gc-h2\">Chi viaggia con noi</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><b>Turisti</b><ul><li>Arrivo in aeroporto senza stress</li><li>Visite a Roma e dintorni</li></ul></div><div class=\"gc-pl ent-pl\"><b>Professionisti</b><ul><li>Trasferte e riunioni</li><li>Puntualit&#224; sugli appuntamenti</li></ul></div><div class=\"gc-pl ent-pl\"><b>Aziende</b><ul><li>Ospiti e clienti da accompagnare</li><li>Eventi e fiere</li></ul></div><div class=\"gc-pl ent-pl\"><b>Coppie e famiglie</b><ul><li>Matrimoni e cerimonie</li><li>Serate fuori senza pensare al parcheggio</li></ul></div></div></div></section></div>"
+  },
+  {
+    "id": "daje",
+    "nome": "Daje",
+    "enabled": true,
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"daje\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Daje a tutta birra</p><h2 class=\"gc-h2\">A tutta birra ci andiamo solo a parole.</h2><p class=\"gc-lead\">Tu pensa alla serata, al volo o alla riunione. Al volante trovi calma, prudenza e rispetto dei limiti: la fretta la lasciamo al modo di dire. Daje, che si parte!</p></div></section></div>"
   },
   {
     "id": "metodo",
-    "nome": "Come lavoriamo",
+    "nome": "Come funziona",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"metodo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Come lavoriamo</p><h2 class=\"gc-h2\">Dalla prima chiamata alla consegna</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl\"><span class=\"n\">01</span><b>Ci parliamo</b><p>Ascoltiamo cosa ti serve, senza impegno.</p></div><div class=\"gc-pl\"><span class=\"n\">02</span><b>Ti facciamo una proposta</b><p>Tempi e costi chiari, prima di iniziare.</p></div><div class=\"gc-pl\"><span class=\"n\">03</span><b>Ci mettiamo al lavoro</b><p>Ti teniamo aggiornato a ogni passaggio.</p></div><div class=\"gc-pl\"><span class=\"n\">04</span><b>Consegniamo e restiamo a disposizione</b><p>Se dopo serve qualcosa, ci trovi.</p></div></div></div></section></div>"
-  },
-  {
-    "id": "avvisi",
-    "nome": "Blog",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"avvisi\"><div class=\"gc-wrap gc-2c\"><div><p class=\"gc-eyebrow\">Dal blog</p><h2 class=\"gc-h2\">Cose che ti possono servire</h2><p class=\"gc-lead\">Guide brevi e novità, scritte in modo semplice.</p><a class=\"gc-btn gc-btn-k\" href=\"__BASEURL__/blog/\">Vai al blog</a></div><div class=\"gc-pl\"><span class=\"n\">ULTIMO ARTICOLO</span><b>Il titolo del tuo ultimo articolo</b><p>Due righe per far venire voglia di leggerlo.</p></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"metodo\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Come funziona</p><h2 class=\"gc-h2\">Dalla richiesta all&#39;arrivo</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl\"><span class=\"n\">01</span><b>Ci scrivi</b><p>Tratta, data, orario e numero di persone.</p></div><div class=\"gc-pl\"><span class=\"n\">02</span><b>Ti rispondiamo</b><p>Preventivo chiaro prima di confermare.</p></div><div class=\"gc-pl\"><span class=\"n\">03</span><b>Si parte</b><p>L&#39;autista arriva all&#39;orario concordato.</p></div><div class=\"gc-pl\"><span class=\"n\">04</span><b>Arrivi</b><p>Ti lasciamo a destinazione, comodo e in orario.</p></div></div></div></section></div>"
   },
   {
     "id": "contatti",
     "nome": "Contatti",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"contatti\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contatti</p><h2 class=\"gc-h2\">Scriviamoci</h2><p class=\"gc-lead\">Raccontaci di cosa hai bisogno, ti rispondiamo appena possibile.</p><a class=\"gc-btn\" href=\"__BASEURL__/contatti/\">Scrivici</a></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"contatti\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Contatti</p><h2 class=\"gc-h2\">Prenota il tuo transfer</h2><p class=\"gc-lead\">Scrivici la tratta e la data: ti rispondiamo appena possibile con un preventivo.</p><a class=\"gc-btn\" href=\"__BASEURL__/contatti/\">Richiedi un preventivo</a></div></section></div>"
   }
 ]

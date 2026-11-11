@@ -3,12 +3,12 @@
     "id": "chi",
     "nome": "About us",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">About us</p><h2 class=\"gc-h2\">Title of the introduction</h2><p class=\"gc-lead\">Who you are, what you do and for whom.</p><p>One more paragraph about how you work.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">About us</p><h2 class=\"gc-h2\">A driver who knows the road</h2><p class=\"gc-lead\">A chauffeur service in Rome and surroundings, made for people who want to travel comfortably and on time.</p><p>Every ride is agreed beforehand: route, time and price. So you know what to expect from start to finish.</p></div></section></div>"
   },
   {
     "id": "principi",
     "nome": "Principles",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">How we behave</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>First principle</b><p>Short description.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Second principle</b><p>Short description.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Third principle</b><p>Short description.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">How we behave</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Punctuality</b><p>We arrive before the agreed time.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Clarity</b><p>Price stated before departure.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Courtesy</b><p>A relaxed ride, from the first trip to the last.</p></div></div></div></section></div>"
   }
 ]

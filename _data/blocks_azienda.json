@@ -3,12 +3,12 @@
     "id": "chi",
     "nome": "Chi siamo",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Chi siamo</p><h2 class=\"gc-h2\">Titolo della presentazione</h2><p class=\"gc-lead\">Chi siete, cosa fate e per chi.</p><p>Un paragrafo in più su come lavorate.</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"chi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Chi siamo</p><h2 class=\"gc-h2\">Un autista che conosce la strada</h2><p class=\"gc-lead\">Servizio di noleggio con conducente a Roma e provincia, pensato per chi vuole viaggiare con comodit&#224; e puntualit&#224;.</p><p>Ogni corsa &#232; concordata prima: tratta, orario e importo. Cos&#236; sai cosa aspettarti dall&#39;inizio alla fine del viaggio.</p></div></section></div>"
   },
   {
     "id": "principi",
     "nome": "Principi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Come ci comportiamo</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Primo principio</b><p>Descrizione breve.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Secondo principio</b><p>Descrizione breve.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Terzo principio</b><p>Descrizione breve.</p></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"principi\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Come ci comportiamo</h2><div class=\"gc-plat\"><div class=\"gc-pl\"><span class=\"n\">1</span><b>Puntualit&#224;</b><p>Arriviamo prima dell&#39;orario concordato.</p></div><div class=\"gc-pl\"><span class=\"n\">2</span><b>Chiarezza</b><p>Importo detto prima di partire.</p></div><div class=\"gc-pl\"><span class=\"n\">3</span><b>Cortesia</b><p>Viaggio tranquillo, dalla prima all&#39;ultima corsa.</p></div></div></div></section></div>"
   }
 ]

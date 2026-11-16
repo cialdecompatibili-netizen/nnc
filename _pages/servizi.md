@@ -4,7 +4,7 @@ title: "Servizi"
 permalink: /servizi/
 ref: servizi
 author_profile: false
-seo_description: "Transfer aeroporti, tour, matrimoni ed eventi, business: noleggio con conducente a Roma e provincia."
+seo_description: "Transfer aeroporti e porti, tour, matrimoni, serate e movida, autista a ore, hotel e business: noleggio con conducente a Roma e provincia."
 ---
 
 Servizio di noleggio con conducente a Roma e provincia. Il prezzo di ogni corsa si concorda prima della partenza, senza sorprese.
@@ -20,6 +20,18 @@ Auto per gli sposi, navette per gli ospiti, serate e cene senza pensare a guida 
 
 ## Business
 Trasferte, fiere e accompagnamento di clienti e ospiti, anche su richiesta all'ultimo momento. Puntualità, riservatezza e la possibilità di usare il viaggio per lavorare.
+
+## Crociere e porti
+Da e per Civitavecchia e gli altri porti, con orari costruiti sulla partenza della nave. Ti aiutiamo con i bagagli e puoi scegliere andata, ritorno o entrambi.
+
+## Serate e movida
+Discoteche, club, aperitivi, rooftop e cene a Roma e dintorni. L'autista guida, tu ti diverti: scegli tu quando partire e quando rientrare, anche a notte fonda.
+
+## Autista a ore
+Per spesa, farmacia, posta, banca, visite e piccole commissioni. Ti accompagniamo, ti aspettiamo a ogni sosta e ti riportiamo a casa. Tariffa a ore concordata prima di partire. È un servizio di accompagnamento, non di assistenza sanitaria.
+
+## Hotel e strutture
+Transfer per gli ospiti in arrivo e in partenza, con orari e riferimenti chiari. Un unico contatto per organizzare le corse della struttura.
 
 ## Viaggi su tratta
 Spostamenti da una città all'altra, anche fuori Roma e provincia, con partenza e arrivo dove ti è più comodo.

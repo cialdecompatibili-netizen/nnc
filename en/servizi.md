@@ -6,7 +6,7 @@ author_profile: false
 ref: servizi
 lang: en
 locale: en
-tr: tradotto
+tr: da_aggiornare
 tr_hash: srsap0
 permalink: /en/services/
 ---

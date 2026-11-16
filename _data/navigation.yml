@@ -12,6 +12,8 @@ main:
     url: /
   - title: "Servizi"
     url: /servizi/
+  - title: "Prenota"
+    url: /#prenota
   - title: "Blog"
     url: /blog/
   - title: "Shop"

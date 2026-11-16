@@ -21,7 +21,7 @@
     "id": "daje",
     "nome": "Daje",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"daje\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Daje a tutta birra</p><h2 class=\"gc-h2\">A tutta birra ci andiamo solo a parole.</h2><p class=\"gc-lead\">Tu pensa alla serata, al volo o alla riunione. Al volante trovi calma, prudenza e rispetto dei limiti: la fretta la lasciamo al modo di dire. Daje, che si parte!</p></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-dark\" id=\"daje\"><div class=\"gc-wrap\"><h2 class=\"gc-h2\">Sali tranquillo, al resto pensiamo noi.</h2><p class=\"gc-lead\">La tua sicurezza viene prima di tutto: guida prudente, rispetto dei limiti e puntualit&#224; sugli orari. Tu pensa alla serata, al volo o alla riunione. Quando sei pronto, basta scriverci.</p></div></section></div>"
   },
   {
     "id": "metodo",

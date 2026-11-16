@@ -429,6 +429,8 @@ document.addEventListener('DOMContentLoaded', function(){
   (function(){
     var content = document.querySelector('.page__content');
     if (!content) return;
+    // Per spegnere l'indice su UNA pagina: nel front matter metti `indice: false` (es. _pages/servizi.md).
+    if ({{ page.indice | jsonify }} === false) return;
     // Niente indice su shop, carrello, ordine, grazie, schede prodotto/categoria (hanno elementi nz-*): solo articoli e pagine normali.
     if (content.querySelector('[id^="nz-"],[class*="nz-"]') || {{ page.ecommerce | default: false | jsonify }} === true) return;
     // H2 = voci principali, H3 = sottovoci rientrate (15/10/2026). La soglia (>=3) conta solo gli H2.

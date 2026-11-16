@@ -81,3 +81,9 @@
 @media(max-width:900px){.gc-hero-in,.gc-2c,.gc-det{grid-template-columns:1fr}.gc-grid,.gc-plat{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:560px){.gc-grid,.gc-plat{grid-template-columns:1fr}}
 @media(prefers-reduced-motion:reduce){.gc *{transition:none!important}}
+
+/* Hover card: rialzo leggero 3D, vale per ogni card (.gc-pl, .gc-card), anche quelle future */
+.gc-plat,.gc-grid{perspective:900px}
+.gc-pl,.gc-card{transition:transform .25s ease,box-shadow .25s ease,border-color .2s}
+.gc-pl:hover,.gc-card:hover{transform:translateY(-4px) rotateX(2deg);box-shadow:0 14px 28px -12px rgba(0,0,0,.22);border-color:var(--gc-ink)}
+@media(prefers-reduced-motion:reduce){.gc-pl:hover,.gc-card:hover{transform:none}}

@@ -1,0 +1,9 @@
+{%- comment -%}GUIDA-SVILUPPO: override locale del sidebar del tema: nei post il bottone "Cerca nel Blog" sta sopra il blocco autore.{%- endcomment -%}
+{% if page.author_profile or page.sidebar %}
+<div class="sidebar sticky">
+  {% if page.collection == "posts" %}
+  <button type="button" onclick="var t=document.querySelector('.search__toggle');if(t){t.click();}" style="width:100%;display:flex;align-items:center;justify-content:space-between;gap:.6rem;padding:.8rem 1.1rem;margin:0 0 1rem;border:1px solid #e9e3d9;border-radius:999px;background:#fff;color:#7a746b;font:inherit;font-size:.92rem;cursor:pointer">Cerca nel Blog <span aria-hidden="true">&#128269;</span></button>
+  {% endif %}
+  {% include author-profile.html %}
+</div>
+{% endif %}

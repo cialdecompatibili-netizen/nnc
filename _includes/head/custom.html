@@ -545,3 +545,15 @@ document.addEventListener('DOMContentLoaded', function(){
 </script>
 {%- endif -%}
 {%- endif -%}
+<script>
+/* GUIDA-SVILUPPO: X per chiudere la ricerca del tema (compare solo quando .search-content e' aperto) */
+document.addEventListener('DOMContentLoaded',function(){
+  var sc=document.querySelector('.search-content');if(!sc)return;
+  var b=document.createElement('button');b.type='button';b.setAttribute('aria-label','Chiudi ricerca');b.innerHTML='&#10005;';
+  b.style.cssText='display:none;position:fixed;top:14px;right:14px;z-index:99999;width:44px;height:44px;border-radius:50%;border:1px solid #e9e3d9;background:#fff;color:#141414;font-size:20px;line-height:1;cursor:pointer;box-shadow:0 2px 10px rgba(0,0,0,.15)';
+  b.onclick=function(){var t=document.querySelector('.search__toggle');if(t)t.click();};
+  document.body.appendChild(b);
+  function sync(){b.style.display=sc.classList.contains('is--visible')?'block':'none';}
+  new MutationObserver(sync).observe(sc,{attributes:true,attributeFilter:['class']});sync();
+});
+</script>

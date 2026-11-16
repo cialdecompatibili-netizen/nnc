@@ -9,13 +9,7 @@
     "id": "servizi",
     "nome": "Servizi",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"servizi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Cosa facciamo</p><h2 class=\"gc-h2\">Dove ti portiamo</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><span class=\"n\">01</span><b>Transfer aeroporti</b><ul><li>Fiumicino e Ciampino</li><li>Accoglienza in arrivo</li><li>Monitoraggio del volo</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">02</span><b>Tour ed escursioni</b><ul><li>Roma e dintorni</li><li>Itinerari su misura</li><li>Soste a tua scelta</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">03</span><b>Matrimoni ed eventi</b><ul><li>Auto per gli sposi</li><li>Navette per gli ospiti</li><li>Serate e cene</li></ul></div><div class=\"gc-pl ent-pl\"><span class=\"n\">04</span><b>Business</b><ul><li>Trasferte e fiere</li><li>Accompagnamento clienti</li><li>Servizio su richiesta</li></ul></div></div><p style=\"margin-top:1.6rem\"><a class=\"gc-link\" href=\"__BASEURL__/servizi/\">Tutti i servizi</a></p></div></section></div>"
-  },
-  {
-    "id": "perchi",
-    "nome": "Per chi",
-    "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"gc-sec\" id=\"perchi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">A chi ci rivolgiamo</p><h2 class=\"gc-h2\">Chi viaggia con noi</h2><div class=\"gc-plat ent-4\"><div class=\"gc-pl ent-pl\"><b>Turisti</b><ul><li>Arrivo in aeroporto senza stress</li><li>Visite a Roma e dintorni</li></ul></div><div class=\"gc-pl ent-pl\"><b>Professionisti</b><ul><li>Trasferte e riunioni</li><li>Puntualit&#224; sugli appuntamenti</li></ul></div><div class=\"gc-pl ent-pl\"><b>Aziende</b><ul><li>Ospiti e clienti da accompagnare</li><li>Eventi e fiere</li></ul></div><div class=\"gc-pl ent-pl\"><b>Coppie e famiglie</b><ul><li>Matrimoni e cerimonie</li><li>Serate fuori senza pensare al parcheggio</li></ul></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"gc-sec gc-soft\" id=\"servizi\"><div class=\"gc-wrap\"><p class=\"gc-eyebrow\">Cosa facciamo</p><h2 class=\"gc-h2\">Dove ti portiamo</h2><div class=\"gc-plat\"><div class=\"gc-pl ent-pl\"><b>Turisti e famiglie</b><ul><li>Arrivo in aeroporto senza stress</li><li>Visite a Roma e dintorni</li><li>Matrimoni, cerimonie e serate fuori</li></ul></div><div class=\"gc-pl ent-pl\"><b>Lavoro e aziende</b><ul><li>Trasferte e riunioni, sempre puntuali</li><li>Ospiti e clienti da accompagnare</li><li>Eventi e fiere</li></ul></div><div class=\"gc-pl ent-pl\"><b>Ogni giorno</b><ul><li>Spesa, farmacia e commissioni</li><li>Visite mediche e accompagnamenti</li><li>Chi non guida o ha l&#8217;auto ferma</li></ul></div></div></div></section></div>"
   },
   {
     "id": "daje",

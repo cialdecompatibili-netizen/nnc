@@ -1,5 +1,4 @@
 ---
-indice: false
 layout: single
 title: "Services"
 description: "Airport transfers, tours, weddings, events and business: chauffeur service in Rome and surroundings."
